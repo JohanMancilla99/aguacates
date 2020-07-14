@@ -1,3 +1,6 @@
 - perro
 - gato
 - camaleon
+- pepino
+- conejo
+- aguacate
